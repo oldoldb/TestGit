@@ -35,6 +35,8 @@ namespace App1
 
         /// Add Test Comment
         /// Add Test Comment 2
+        /// Add Test Comment 3
+        /// Add Test Comment 4
         /// <summary>
         /// Invoked when the application is launched normally by the end user.  Other entry points
         /// will be used such as when the application is launched to open a specific file.
